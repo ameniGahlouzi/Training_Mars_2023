@@ -28,6 +28,4 @@ docker run -it -v "$PWD":/app -w /app  amenigahlouzi/hello-rust  bash
 cargo run
 
 
-cargo build --release
-
-docker build -t amenigahlouzi/dev-rust -f Dockerfile-run . 
+<img width="465" alt="image" src="https://user-images.githubusercontent.com/39723480/222470876-163b6042-0815-429f-abf9-3175ff621fad.png">
