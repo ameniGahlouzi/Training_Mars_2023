@@ -1,0 +1,23 @@
+# Dependency directories
+/target/
+Cargo.lock
+
+# Build output
+*.rs.bk
+*.rlib
+*.rmeta
+*.exe
+*.dll
+*.so
+*.dylib
+*.dSYM/
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
+/target

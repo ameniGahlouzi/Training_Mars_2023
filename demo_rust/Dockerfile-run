@@ -1,0 +1,5 @@
+from rust
+
+workdir /webapp
+copy target/release/app .
+cmd ["webapp/app"]

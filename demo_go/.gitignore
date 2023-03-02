@@ -1,0 +1,25 @@
+# Compiled object files
+*.o
+*.a
+*.exe
+
+# Compiled executables
+bin/
+*.exe
+*.test
+*.prof
+
+# Dependency directories
+vendor/
+.cache/
+
+# Log files
+*.log
+
+# Editor files
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db

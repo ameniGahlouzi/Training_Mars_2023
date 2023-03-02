@@ -1,0 +1,20 @@
+# Dependency directories
+.deps/
+.libs/
+.vmodules/
+/bin
+
+# Build output
+*.o
+*.out
+*.exe
+*.a
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+
+# Operating system files
+.DS_Store
+Thumbs.db
