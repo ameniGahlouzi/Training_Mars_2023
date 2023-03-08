@@ -20,6 +20,9 @@ let callOpenAi = async (prompt) => {
         frequency_penalty: 0,
         presence_penalty: 0,
         best_of: 1
+      })
+      .catch(error=>{
+          console.log("error")
       });
 
       

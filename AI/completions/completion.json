@@ -1,0 +1,48 @@
+[{
+    "model": "text-davinci-002",
+    "prompt": "Le ciel est bleu et le soleil brille.",
+    "temperature": 0.7,
+    "max_tokens": 50,
+    "n": 1,
+    "stop": ["\n"]
+  },
+  {
+    "model": "text-davinci-002",
+    "prompt": "Le ciel est bleu et le soleil brille.",
+    "temperature": 0.7,
+    "max_tokens": 50,
+    "n": 1,
+    "stop": ["\n"]
+  },
+  {
+    "model": "text-davinci-002",
+    "prompt": "Le ciel est bleu et le soleil brille.",
+    "temperature": 0.7,
+    "max_tokens": 50,
+    "n": 1,
+    "stop": ["\n"]
+  },
+  {
+    "model": "text-davinci-002",
+    "prompt": "Le ciel est bleu et le soleil brille.",
+    "temperature": 0.7,
+    "max_tokens": 50,
+    "n": 1,
+    "stop": ["\n"]
+  },
+  {
+    "model": "text-davinci-002",
+    "prompt": "Le ciel est bleu et le soleil brille.",
+    "temperature": 0.7,
+    "max_tokens": 50,
+    "n": 1,
+    "stop": ["\n"]
+  },
+  {
+    "model": "text-davinci-002",
+    "prompt": "Le ciel est bleu et le soleil brille.",
+    "temperature": 0.7,
+    "max_tokens": 50,
+    "n": 1,
+    "stop": ["\n"]
+  }]
