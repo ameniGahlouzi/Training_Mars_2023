@@ -1,4 +1,4 @@
-the project is: developping a plugin on visual studio code that allow chatgpt to analize the whole project or a selected specific file or directory
+Project description: developping a plugin on visual studio code that allow chatgpt to analize the whole project or a selected specific file or directory
 
 1.Set up the development environment
 
