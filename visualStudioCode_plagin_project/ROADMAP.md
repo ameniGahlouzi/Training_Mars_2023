@@ -13,7 +13,9 @@ the project is: developping a plugin on visual studio code that allow chatgpt to
         specifying any keyboard shortcuts that users can use to trigger the analysis.
         
 3.Implement the UI element: 
+
     3.1.actions triggered when the user interacts with the UI element
+    
     3.2.writing the code that performs the analysis
     
 4.Test the plugin
