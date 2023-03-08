@@ -1,10 +1,10 @@
 Project description: developping a plugin on visual studio code that allow chatgpt to analize the whole project or a selected specific file or directory
 
-1.Set up the development environment : 1/5 day
+1.Set up the development environment : 1/2 day
 
 2.Define the user interface
 
-    2.1:choose a UI element to represent your plugin in the Visual Studio Code UI:1/5 day
+    2.1:choose a UI element to represent your plugin in the Visual Studio Code UI:1/2 day
     
     2.2:Design the UI element:1-2 days
     
