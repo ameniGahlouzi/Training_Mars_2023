@@ -1,4 +1,11 @@
-from openjdk:17-alpine
-workdir /code 
-copy /build/libs/demo-0.0.1-SNAPSHOT.jar /code 
-cmd ["java", "-jar" , "demo-0.0.1-SNAPSHOT.jar"]
+FROM gradle:jdk17
+
+WORKDIR /app
+
+COPY . .
+
+RUN ./gradlew build
+java -jar build/libs/demo-0.0.1-SNAPSHOT.jar --host=0.0.0.0
+
+
+CMD ["java", "-jar","build/libs/demo-0.0.1-SNAPSHOT.jar"]

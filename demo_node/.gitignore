@@ -22,6 +22,7 @@ out/
 .idea/
 .vscode/
 *.swp
+package-lock.json
 
 # Operating system files
 .DS_Store

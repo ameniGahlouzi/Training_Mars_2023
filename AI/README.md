@@ -1,3 +1,23 @@
+
+pip --version
+curl --version
+
+brew install curl
+brew install python
+
+sudo easy_install pip
+
+pip --version
+
+
+
+sudo easy_install curl
+
+curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+
+sudo python get-pip.py
+
+
 pip install --upgrade openai
 export OPENAI_API_KEY="<OPENAI_API_KEY>"
 openai tools fine_tunes.prepare_data -f data.jsonl
